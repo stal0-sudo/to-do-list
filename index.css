@@ -78,3 +78,13 @@ li.done span {
   color: #5a7268;
   font-size: 0.9rem;
 }
+
+.edit-input {
+  flex: 1;
+  padding: 6px 10px;
+  font: inherit;
+  border: 1px solid #2f6b4f;
+  border-radius: 4px;
+  outline: none;
+  background: #fff;
+}
